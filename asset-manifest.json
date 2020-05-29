@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/event-urfu/static/css/main.04df704c.chunk.css",
+    "main.css": "/event-urfu/static/css/main.6184f3d3.chunk.css",
     "main.js": "/event-urfu/static/js/main.f5ef2180.chunk.js",
     "main.js.map": "/event-urfu/static/js/main.f5ef2180.chunk.js.map",
     "runtime-main.js": "/event-urfu/static/js/runtime-main.98fc6edb.js",
@@ -8,9 +8,9 @@
     "static/js/2.8fb1e4ff.chunk.js": "/event-urfu/static/js/2.8fb1e4ff.chunk.js",
     "static/js/2.8fb1e4ff.chunk.js.map": "/event-urfu/static/js/2.8fb1e4ff.chunk.js.map",
     "index.html": "/event-urfu/index.html",
-    "precache-manifest.e860893f1ed60e3d01b1fccccc04754b.js": "/event-urfu/precache-manifest.e860893f1ed60e3d01b1fccccc04754b.js",
+    "precache-manifest.326e6fe45c9e1e56f9b29e35127ff805.js": "/event-urfu/precache-manifest.326e6fe45c9e1e56f9b29e35127ff805.js",
     "service-worker.js": "/event-urfu/service-worker.js",
-    "static/css/main.04df704c.chunk.css.map": "/event-urfu/static/css/main.04df704c.chunk.css.map",
+    "static/css/main.6184f3d3.chunk.css.map": "/event-urfu/static/css/main.6184f3d3.chunk.css.map",
     "static/js/2.8fb1e4ff.chunk.js.LICENSE.txt": "/event-urfu/static/js/2.8fb1e4ff.chunk.js.LICENSE.txt",
     "static/media/common-styles.css": "/event-urfu/static/media/background.578f3c56.jpg",
     "static/media/description-style.css": "/event-urfu/static/media/user_1.031cd833.svg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.98fc6edb.js",
     "static/js/2.8fb1e4ff.chunk.js",
-    "static/css/main.04df704c.chunk.css",
+    "static/css/main.6184f3d3.chunk.css",
     "static/js/main.f5ef2180.chunk.js"
   ]
 }
