@@ -1,33 +1,36 @@
 {
   "files": {
-    "main.css": "/event-urfu/static/css/main.8ede391f.chunk.css",
-    "main.js": "/event-urfu/static/js/main.19779c10.chunk.js",
-    "main.js.map": "/event-urfu/static/js/main.19779c10.chunk.js.map",
+    "main.css": "/event-urfu/static/css/main.9f0fd073.chunk.css",
+    "main.js": "/event-urfu/static/js/main.87122768.chunk.js",
+    "main.js.map": "/event-urfu/static/js/main.87122768.chunk.js.map",
     "runtime-main.js": "/event-urfu/static/js/runtime-main.98fc6edb.js",
     "runtime-main.js.map": "/event-urfu/static/js/runtime-main.98fc6edb.js.map",
-    "static/js/2.627c74ef.chunk.js": "/event-urfu/static/js/2.627c74ef.chunk.js",
-    "static/js/2.627c74ef.chunk.js.map": "/event-urfu/static/js/2.627c74ef.chunk.js.map",
+    "static/js/2.74e80a56.chunk.js": "/event-urfu/static/js/2.74e80a56.chunk.js",
+    "static/js/2.74e80a56.chunk.js.map": "/event-urfu/static/js/2.74e80a56.chunk.js.map",
     "index.html": "/event-urfu/index.html",
-    "precache-manifest.dfaba3d7f13b2dadb38001050b101ba3.js": "/event-urfu/precache-manifest.dfaba3d7f13b2dadb38001050b101ba3.js",
+    "precache-manifest.77105c6e8746f19148172bafd0f2405b.js": "/event-urfu/precache-manifest.77105c6e8746f19148172bafd0f2405b.js",
     "service-worker.js": "/event-urfu/service-worker.js",
-    "static/css/main.8ede391f.chunk.css.map": "/event-urfu/static/css/main.8ede391f.chunk.css.map",
-    "static/js/2.627c74ef.chunk.js.LICENSE.txt": "/event-urfu/static/js/2.627c74ef.chunk.js.LICENSE.txt",
+    "static/css/main.9f0fd073.chunk.css.map": "/event-urfu/static/css/main.9f0fd073.chunk.css.map",
+    "static/js/2.74e80a56.chunk.js.LICENSE.txt": "/event-urfu/static/js/2.74e80a56.chunk.js.LICENSE.txt",
     "static/media/common-styles.css": "/event-urfu/static/media/background.578f3c56.jpg",
     "static/media/description-style.css": "/event-urfu/static/media/user_1.031cd833.svg",
     "static/media/close-cross.svg": "/event-urfu/static/media/close-cross.46490cce.svg",
+    "static/media/first.jpg": "/event-urfu/static/media/first.c682cc99.jpg",
     "static/media/footer-styles.css": "/event-urfu/static/media/social.a37ada0e.svg",
     "static/media/isLiked.svg": "/event-urfu/static/media/isLiked.3ef8a1df.svg",
     "static/media/isShared.svg": "/event-urfu/static/media/isShared.ac570b49.svg",
     "static/media/like.svg": "/event-urfu/static/media/like.0d09859a.svg",
     "static/media/preloader-style.css": "/event-urfu/static/media/school.8441bb3b.svg",
     "static/media/search.svg": "/event-urfu/static/media/search.448cdb4c.svg",
+    "static/media/second.jpg": "/event-urfu/static/media/second.65ab2ce5.jpg",
     "static/media/share.svg": "/event-urfu/static/media/share.a8081980.svg",
+    "static/media/third.jpg": "/event-urfu/static/media/third.985cbc69.jpg",
     "static/media/auth-style.css": "/event-urfu/static/media/vk_white.88ed95b5.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.98fc6edb.js",
-    "static/js/2.627c74ef.chunk.js",
-    "static/css/main.8ede391f.chunk.css",
-    "static/js/main.19779c10.chunk.js"
+    "static/js/2.74e80a56.chunk.js",
+    "static/css/main.9f0fd073.chunk.css",
+    "static/js/main.87122768.chunk.js"
   ]
 }

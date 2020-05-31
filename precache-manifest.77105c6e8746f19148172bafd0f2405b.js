@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ba12fff0622cddcd26f3413f4987bc42",
+    "revision": "aff648350b1f368b9f5ed181a4535ec4",
     "url": "/event-urfu/index.html"
   },
   {
-    "revision": "a6b50016b3795417b27a",
-    "url": "/event-urfu/static/css/main.8ede391f.chunk.css"
+    "revision": "e8d2933ee7168aee7f61",
+    "url": "/event-urfu/static/css/main.9f0fd073.chunk.css"
   },
   {
-    "revision": "8d3e5d7cade5111d5840",
-    "url": "/event-urfu/static/js/2.627c74ef.chunk.js"
+    "revision": "2506edd1e5801c81d74c",
+    "url": "/event-urfu/static/js/2.74e80a56.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/event-urfu/static/js/2.627c74ef.chunk.js.LICENSE.txt"
+    "url": "/event-urfu/static/js/2.74e80a56.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a6b50016b3795417b27a",
-    "url": "/event-urfu/static/js/main.19779c10.chunk.js"
+    "revision": "e8d2933ee7168aee7f61",
+    "url": "/event-urfu/static/js/main.87122768.chunk.js"
   },
   {
     "revision": "8183f79ceb93d6fe2295",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "46490ccedb035fa02fb969f990616172",
     "url": "/event-urfu/static/media/close-cross.46490cce.svg"
+  },
+  {
+    "revision": "c682cc9963092583f4d921a747795c26",
+    "url": "/event-urfu/static/media/first.c682cc99.jpg"
   },
   {
     "revision": "b53d0c15b724e0f931c4c6dcaedd1eaa",
@@ -64,12 +68,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/event-urfu/static/media/search.448cdb4c.svg"
   },
   {
+    "revision": "65ab2ce56494477b746c71ae817dee26",
+    "url": "/event-urfu/static/media/second.65ab2ce5.jpg"
+  },
+  {
     "revision": "a808198053ea51d67a522b73be80c1d2",
     "url": "/event-urfu/static/media/share.a8081980.svg"
   },
   {
     "revision": "a37ada0e2d72e2a4a9f19fe0aa35b0ad",
     "url": "/event-urfu/static/media/social.a37ada0e.svg"
+  },
+  {
+    "revision": "985cbc6917b698e7a0e7f5c63b2f1e75",
+    "url": "/event-urfu/static/media/third.985cbc69.jpg"
   },
   {
     "revision": "031cd8338535d7f6f7bb4b040ac0e06a",
