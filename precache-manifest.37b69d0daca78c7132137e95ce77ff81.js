@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7552afae18db826c19696353d2d81818",
+    "revision": "954f54720deefc335137287bbb352800",
     "url": "/event-urfu/index.html"
   },
   {
-    "revision": "c76ef92059fb6d0887e5",
-    "url": "/event-urfu/static/css/main.ba113589.chunk.css"
+    "revision": "22ba486c8b62f72b45da",
+    "url": "/event-urfu/static/css/main.e0551726.chunk.css"
   },
   {
-    "revision": "52f57a863f0bb31b6672",
-    "url": "/event-urfu/static/js/2.7e00d742.chunk.js"
+    "revision": "2a4dc133b316eb89b8fa",
+    "url": "/event-urfu/static/js/2.ffdaec02.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/event-urfu/static/js/2.7e00d742.chunk.js.LICENSE.txt"
+    "url": "/event-urfu/static/js/2.ffdaec02.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c76ef92059fb6d0887e5",
-    "url": "/event-urfu/static/js/main.e38a7023.chunk.js"
+    "revision": "22ba486c8b62f72b45da",
+    "url": "/event-urfu/static/js/main.1a881154.chunk.js"
   },
   {
     "revision": "8183f79ceb93d6fe2295",
@@ -28,12 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/event-urfu/static/media/background.578f3c56.jpg"
   },
   {
-    "revision": "ed818fadd98c976113b270f7c708eb34",
-    "url": "/event-urfu/static/media/clock_1.ed818fad.svg"
-  },
-  {
-    "revision": "46490ccedb035fa02fb969f990616172",
-    "url": "/event-urfu/static/media/close-cross.46490cce.svg"
+    "revision": "f3c74ea1ba8db84b1d1bd4e4ac97e7bf",
+    "url": "/event-urfu/static/media/clock.f3c74ea1.svg"
   },
   {
     "revision": "2d11b2f1364643b6535d41f5de47e76e",
@@ -56,8 +52,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/event-urfu/static/media/like.0d09859a.svg"
   },
   {
-    "revision": "26bee478f861eb4ca80e493255c257a6",
-    "url": "/event-urfu/static/media/location.26bee478.svg"
+    "revision": "83e4f40eb7c4bf6ae16b3737f0c54066",
+    "url": "/event-urfu/static/media/location.83e4f40e.svg"
+  },
+  {
+    "revision": "0ee5aa1896aa792f0a559d99eff2543f",
+    "url": "/event-urfu/static/media/person.0ee5aa18.svg"
   },
   {
     "revision": "8441bb3b766d15e5788f850b87186833",
@@ -82,10 +82,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "985cbc6917b698e7a0e7f5c63b2f1e75",
     "url": "/event-urfu/static/media/third.985cbc69.jpg"
-  },
-  {
-    "revision": "031cd8338535d7f6f7bb4b040ac0e06a",
-    "url": "/event-urfu/static/media/user_1.031cd833.svg"
   },
   {
     "revision": "4ba940d8d5e09821e1ee08c27e367ed7",
