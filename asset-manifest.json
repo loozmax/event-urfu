@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/event-urfu/static/css/main.25c7d2da.chunk.css",
-    "main.js": "/event-urfu/static/js/main.adb20650.chunk.js",
-    "main.js.map": "/event-urfu/static/js/main.adb20650.chunk.js.map",
+    "main.css": "/event-urfu/static/css/main.ba113589.chunk.css",
+    "main.js": "/event-urfu/static/js/main.ecd57200.chunk.js",
+    "main.js.map": "/event-urfu/static/js/main.ecd57200.chunk.js.map",
     "runtime-main.js": "/event-urfu/static/js/runtime-main.98fc6edb.js",
     "runtime-main.js.map": "/event-urfu/static/js/runtime-main.98fc6edb.js.map",
-    "static/js/2.9a23cfa8.chunk.js": "/event-urfu/static/js/2.9a23cfa8.chunk.js",
-    "static/js/2.9a23cfa8.chunk.js.map": "/event-urfu/static/js/2.9a23cfa8.chunk.js.map",
+    "static/js/2.a46a9ff6.chunk.js": "/event-urfu/static/js/2.a46a9ff6.chunk.js",
+    "static/js/2.a46a9ff6.chunk.js.map": "/event-urfu/static/js/2.a46a9ff6.chunk.js.map",
     "index.html": "/event-urfu/index.html",
-    "precache-manifest.0fae363112a2568616a404bd58a4023f.js": "/event-urfu/precache-manifest.0fae363112a2568616a404bd58a4023f.js",
+    "precache-manifest.a29c900b3b0d56518aa692c129f24a55.js": "/event-urfu/precache-manifest.a29c900b3b0d56518aa692c129f24a55.js",
     "service-worker.js": "/event-urfu/service-worker.js",
-    "static/css/main.25c7d2da.chunk.css.map": "/event-urfu/static/css/main.25c7d2da.chunk.css.map",
-    "static/js/2.9a23cfa8.chunk.js.LICENSE.txt": "/event-urfu/static/js/2.9a23cfa8.chunk.js.LICENSE.txt",
+    "static/css/main.ba113589.chunk.css.map": "/event-urfu/static/css/main.ba113589.chunk.css.map",
+    "static/js/2.a46a9ff6.chunk.js.LICENSE.txt": "/event-urfu/static/js/2.a46a9ff6.chunk.js.LICENSE.txt",
     "static/media/common-styles.css": "/event-urfu/static/media/background.578f3c56.jpg",
     "static/media/description-style.css": "/event-urfu/static/media/user_1.031cd833.svg",
     "static/media/close-cross.svg": "/event-urfu/static/media/close-cross.46490cce.svg",
@@ -25,12 +25,13 @@
     "static/media/second.jpg": "/event-urfu/static/media/second.65ab2ce5.jpg",
     "static/media/share.svg": "/event-urfu/static/media/share.a8081980.svg",
     "static/media/third.jpg": "/event-urfu/static/media/third.985cbc69.jpg",
-    "static/media/auth-style.css": "/event-urfu/static/media/vk_white.88ed95b5.svg"
+    "static/media/auth-style.css": "/event-urfu/static/media/vk_white.88ed95b5.svg",
+    "static/media/x.svg": "/event-urfu/static/media/x.7d2a01fd.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.98fc6edb.js",
-    "static/js/2.9a23cfa8.chunk.js",
-    "static/css/main.25c7d2da.chunk.css",
-    "static/js/main.adb20650.chunk.js"
+    "static/js/2.a46a9ff6.chunk.js",
+    "static/css/main.ba113589.chunk.css",
+    "static/js/main.ecd57200.chunk.js"
   ]
 }
