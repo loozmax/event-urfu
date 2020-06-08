@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/event-urfu/static/css/main.8efb7d83.chunk.css",
-    "main.js": "/event-urfu/static/js/main.3ed34f54.chunk.js",
-    "main.js.map": "/event-urfu/static/js/main.3ed34f54.chunk.js.map",
+    "main.css": "/event-urfu/static/css/main.33fa6724.chunk.css",
+    "main.js": "/event-urfu/static/js/main.3ec88f8d.chunk.js",
+    "main.js.map": "/event-urfu/static/js/main.3ec88f8d.chunk.js.map",
     "runtime-main.js": "/event-urfu/static/js/runtime-main.98fc6edb.js",
     "runtime-main.js.map": "/event-urfu/static/js/runtime-main.98fc6edb.js.map",
     "static/js/2.def64c3f.chunk.js": "/event-urfu/static/js/2.def64c3f.chunk.js",
     "static/js/2.def64c3f.chunk.js.map": "/event-urfu/static/js/2.def64c3f.chunk.js.map",
     "index.html": "/event-urfu/index.html",
-    "precache-manifest.44e0e987c9eb8857a82a318e3a4a7302.js": "/event-urfu/precache-manifest.44e0e987c9eb8857a82a318e3a4a7302.js",
+    "precache-manifest.69149610f34bb7024d2af2e36fcdaf1c.js": "/event-urfu/precache-manifest.69149610f34bb7024d2af2e36fcdaf1c.js",
     "service-worker.js": "/event-urfu/service-worker.js",
-    "static/css/main.8efb7d83.chunk.css.map": "/event-urfu/static/css/main.8efb7d83.chunk.css.map",
+    "static/css/main.33fa6724.chunk.css.map": "/event-urfu/static/css/main.33fa6724.chunk.css.map",
     "static/js/2.def64c3f.chunk.js.LICENSE.txt": "/event-urfu/static/js/2.def64c3f.chunk.js.LICENSE.txt",
     "static/media/common-styles.css": "/event-urfu/static/media/background.578f3c56.jpg",
     "static/media/description-style.css": "/event-urfu/static/media/person.0ee5aa18.svg",
@@ -20,7 +20,6 @@
     "static/media/isLiked.svg": "/event-urfu/static/media/isLiked.3ef8a1df.svg",
     "static/media/isShared.svg": "/event-urfu/static/media/isShared.ac570b49.svg",
     "static/media/like.svg": "/event-urfu/static/media/like.0d09859a.svg",
-    "static/media/preloader-style.css": "/event-urfu/static/media/school.8441bb3b.svg",
     "static/media/search.svg": "/event-urfu/static/media/search.448cdb4c.svg",
     "static/media/second.jpg": "/event-urfu/static/media/second.65ab2ce5.jpg",
     "static/media/share.svg": "/event-urfu/static/media/share.a8081980.svg",
@@ -31,7 +30,7 @@
   "entrypoints": [
     "static/js/runtime-main.98fc6edb.js",
     "static/js/2.def64c3f.chunk.js",
-    "static/css/main.8efb7d83.chunk.css",
-    "static/js/main.3ed34f54.chunk.js"
+    "static/css/main.33fa6724.chunk.css",
+    "static/js/main.3ec88f8d.chunk.js"
   ]
 }

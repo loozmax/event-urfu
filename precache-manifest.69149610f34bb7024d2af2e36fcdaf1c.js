@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "83d52c345f0d5f9d0b840b56b2468798",
+    "revision": "f4fa49e369d78491a37dcc1106c1d60b",
     "url": "/event-urfu/index.html"
   },
   {
-    "revision": "c0f591009ccf401b99bc",
-    "url": "/event-urfu/static/css/main.8efb7d83.chunk.css"
+    "revision": "249d1d163a89abb4c22d",
+    "url": "/event-urfu/static/css/main.33fa6724.chunk.css"
   },
   {
     "revision": "17cb689a72a369693a98",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/event-urfu/static/js/2.def64c3f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c0f591009ccf401b99bc",
-    "url": "/event-urfu/static/js/main.3ed34f54.chunk.js"
+    "revision": "249d1d163a89abb4c22d",
+    "url": "/event-urfu/static/js/main.3ec88f8d.chunk.js"
   },
   {
     "revision": "8183f79ceb93d6fe2295",
@@ -66,10 +66,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0ee5aa1896aa792f0a559d99eff2543f",
     "url": "/event-urfu/static/media/person.0ee5aa18.svg"
-  },
-  {
-    "revision": "8441bb3b766d15e5788f850b87186833",
-    "url": "/event-urfu/static/media/school.8441bb3b.svg"
   },
   {
     "revision": "448cdb4c2476858c89a4d84fc374671d",
