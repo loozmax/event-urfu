@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "581682df1432c5a2d0a8c5bb89858c4d",
+    "revision": "27c5124e68577a76e5ab95a025d1c675",
     "url": "/event-urfu/index.html"
   },
   {
-    "revision": "dfdc4c482032b1630529",
-    "url": "/event-urfu/static/css/main.aedd12a8.chunk.css"
+    "revision": "c58db44538c62820664a",
+    "url": "/event-urfu/static/css/main.8c8d8188.chunk.css"
   },
   {
-    "revision": "9fa3e5bd22ada7eef36d",
-    "url": "/event-urfu/static/js/2.773bee83.chunk.js"
+    "revision": "4c07332e5526838e068d",
+    "url": "/event-urfu/static/js/2.f46839d7.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/event-urfu/static/js/2.773bee83.chunk.js.LICENSE.txt"
+    "url": "/event-urfu/static/js/2.f46839d7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dfdc4c482032b1630529",
-    "url": "/event-urfu/static/js/main.4af9555c.chunk.js"
+    "revision": "c58db44538c62820664a",
+    "url": "/event-urfu/static/js/main.cd9186af.chunk.js"
   },
   {
     "revision": "8183f79ceb93d6fe2295",
