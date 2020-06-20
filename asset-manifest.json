@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/event-urfu/static/css/main.166a47e2.chunk.css",
-    "main.js": "/event-urfu/static/js/main.45abbfa8.chunk.js",
-    "main.js.map": "/event-urfu/static/js/main.45abbfa8.chunk.js.map",
+    "main.js": "/event-urfu/static/js/main.80f1a5e3.chunk.js",
+    "main.js.map": "/event-urfu/static/js/main.80f1a5e3.chunk.js.map",
     "runtime-main.js": "/event-urfu/static/js/runtime-main.98fc6edb.js",
     "runtime-main.js.map": "/event-urfu/static/js/runtime-main.98fc6edb.js.map",
     "static/js/2.14b525ae.chunk.js": "/event-urfu/static/js/2.14b525ae.chunk.js",
     "static/js/2.14b525ae.chunk.js.map": "/event-urfu/static/js/2.14b525ae.chunk.js.map",
     "index.html": "/event-urfu/index.html",
-    "precache-manifest.b15e70896b674a5fa0156967b52f2f84.js": "/event-urfu/precache-manifest.b15e70896b674a5fa0156967b52f2f84.js",
+    "precache-manifest.3c06e22373c70abaa1a522f3ed753155.js": "/event-urfu/precache-manifest.3c06e22373c70abaa1a522f3ed753155.js",
     "service-worker.js": "/event-urfu/service-worker.js",
     "static/css/main.166a47e2.chunk.css.map": "/event-urfu/static/css/main.166a47e2.chunk.css.map",
     "static/js/2.14b525ae.chunk.js.LICENSE.txt": "/event-urfu/static/js/2.14b525ae.chunk.js.LICENSE.txt",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.98fc6edb.js",
     "static/js/2.14b525ae.chunk.js",
     "static/css/main.166a47e2.chunk.css",
-    "static/js/main.45abbfa8.chunk.js"
+    "static/js/main.80f1a5e3.chunk.js"
   ]
 }
