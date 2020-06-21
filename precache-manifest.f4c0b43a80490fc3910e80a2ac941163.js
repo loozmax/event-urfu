@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "43b34d7a6a5155a74a3fb2c077ed7435",
+    "revision": "7d9ad0e45cd2c978a9ef58e3e32d1c8e",
     "url": "/event-urfu/index.html"
   },
   {
-    "revision": "574a8b636ada151261a7",
+    "revision": "a424ba203dd58a15dca4",
     "url": "/event-urfu/static/css/main.ceb3cca7.chunk.css"
   },
   {
-    "revision": "5ee9c58b6354271218e9",
-    "url": "/event-urfu/static/js/2.14b525ae.chunk.js"
+    "revision": "8de157f9518ce772e93f",
+    "url": "/event-urfu/static/js/2.47f74aad.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/event-urfu/static/js/2.14b525ae.chunk.js.LICENSE.txt"
+    "url": "/event-urfu/static/js/2.47f74aad.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "574a8b636ada151261a7",
-    "url": "/event-urfu/static/js/main.06c00394.chunk.js"
+    "revision": "a424ba203dd58a15dca4",
+    "url": "/event-urfu/static/js/main.5b06103f.chunk.js"
   },
   {
     "revision": "8183f79ceb93d6fe2295",
@@ -40,6 +40,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/event-urfu/static/media/first.2d11b2f1.jpg"
   },
   {
+    "revision": "af7e63658210bd3297e9b845678176c0",
+    "url": "/event-urfu/static/media/game.af7e6365.jpg"
+  },
+  {
     "revision": "b53d0c15b724e0f931c4c6dcaedd1eaa",
     "url": "/event-urfu/static/media/internet.b53d0c15.svg"
   },
@@ -50,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ac570b49bacc2cc33c95851cc840cb4f",
     "url": "/event-urfu/static/media/isShared.ac570b49.svg"
+  },
+  {
+    "revision": "c67b48da231ca1a88feb9d1b11d8b96a",
+    "url": "/event-urfu/static/media/kino.c67b48da.jpg"
   },
   {
     "revision": "0d09859ad954a35c0d1ddb8c0faedd97",
@@ -66,6 +74,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0ee5aa1896aa792f0a559d99eff2543f",
     "url": "/event-urfu/static/media/person.0ee5aa18.svg"
+  },
+  {
+    "revision": "1b24f3d2117e8783e7037a3e5ba9ff45",
+    "url": "/event-urfu/static/media/photomaraphon.1b24f3d2.jpg"
   },
   {
     "revision": "448cdb4c2476858c89a4d84fc374671d",
